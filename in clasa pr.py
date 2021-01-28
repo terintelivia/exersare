@@ -1,0 +1,10 @@
+numere=[1,9,7,5,4,8,6,3,2]
+print('Afisarea lista=',numere)
+print('Afisarea listei ordonata crescator=',sorted(numere))
+print('Lungimea sirului=',len(numere))
+print('Elementul maxim=',max(numere))
+print('Elementul minim=',min(numere))
+print('Suma elementelor=',sum(numere))
+print(all([34,58,0,12]))
+print(all([7,8,6,5,4,1]))
+print(any([4,False,5,8,6]))
